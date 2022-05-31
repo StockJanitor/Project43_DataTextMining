@@ -1,4 +1,7 @@
 # Project62_TextMiningTimeSeriesLSTM
+
+Files: textMiningEV.ipynb
+
 Highlights <br>
 Data pre-proccessing, model featuring, ANN, LSTM, Bidrectional LSTM<br>
 
