@@ -2,8 +2,7 @@
 
 Files: textMiningEV.ipynb
 
-Highlights <br>
-Data pre-proccessing, model featuring, ANN, LSTM, Bidrectional LSTM<br>
+Highlights: Data pre-proccessing, model featuring, ANN, LSTM, Bidrectional LSTM<br>
 
 Overview:<br>
 1. Parsing - alpha_vantage, beautifulsoup; ML - sklearn, keras, tensorflow
@@ -13,6 +12,6 @@ Overview:<br>
 5. Conclusion<br>
 6. References<br>
 
-Flaws: <rb>
+Flaws: <br>
 - the features should be normalize each column individually, then standard scale as a whole.
 - not enough detailed data
