@@ -6,3 +6,7 @@ Overview:<br>
 4. Save scaler to pickle, Model checkpoint
 5. Conclusion<br>
 6. References<br>
+
+Flaws: 
+- the features should be normalize each column individually, then standard scale as a whole.
+- not enough detailed data
