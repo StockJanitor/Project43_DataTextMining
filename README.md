@@ -1,4 +1,7 @@
-# CIS43_DataTextMining
+# Project62_TextMiningTimeSeriesLSTM
+Highlights <br>
+Data pre-proccessing, model featuring, ANN, LSTM, Bidrectional LSTM<br>
+
 Overview:<br>
 1. Parsing - alpha_vantage, beautifulsoup; ML - sklearn, keras, tensorflow
 2. Data cleaning, EDA, Preprocessing, Model featuring <br>
@@ -7,6 +10,6 @@ Overview:<br>
 5. Conclusion<br>
 6. References<br>
 
-Flaws: 
+Flaws: <rb>
 - the features should be normalize each column individually, then standard scale as a whole.
 - not enough detailed data
