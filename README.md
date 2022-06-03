@@ -15,5 +15,5 @@ DL (TimeSeries, ANN, LSTM, Bidrectional LSTM) <br>
 6. References<br>
 
 Flaws: <br>
-- the features should be normalize each column individually, then standard scale as a whole.
+- the features should be normalize each column individually, instead of standard scale as a whole.
 - not enough detailed data
