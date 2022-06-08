@@ -1,7 +1,7 @@
 ### Project62_TextMiningTimeSeriesLSTM
 
 Files: 1_index.ipynb, 2_tfboard.ipynb
-
+Data: inflation rate, gas prices, Chevron stock prices from 2000 to 2022 (all monthly)
 Highlights: Data pre-proccessing, model featuring, ANN, LSTM, Bidrectional LSTM<br>
 
 Overview:<br>
