@@ -1,10 +1,10 @@
 ### Project62_TextMiningTimeSeriesLSTM
 
-Files: 1_index.ipynb, 2_tfboard.ipynb
-Data: inflation rate, gas prices, Chevron stock prices from 2000 to 2022 (all monthly)
 Highlights: Data pre-proccessing, model featuring, ANN, LSTM, Bidrectional LSTM<br>
+Data: inflation rate, gas prices, Chevron stock prices from 2000 to 2022 (all monthly)<br>
+Files: 1_index.ipynb, 2_tfboard.ipynb<br>
 
-Overview:<br>
+Topic: Use inflation rate, gas prices predict Chevron stock price (Time Series)<br>
 1. Parsing - alpha_vantage, beautifulsoup; sklearn, keras, tensorflow; <br>
 ML (LinearReg, Ridge, RandomForestReg, XGBboost); <br>
 DL (TimeSeries, ANN, LSTM, Bidrectional LSTM) <br>
